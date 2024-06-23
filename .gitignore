@@ -81,3 +81,8 @@ dmypy.json
 cython_debug/
 cc.id.300.bin
 lid.176.bin
+.idea
+checkpoint.*
+model.png
+*.html
+model.*
